@@ -1,3 +1,3 @@
 # Algorithms
 
-[Two Sum] (/twoSum)
+[./twoSum] (two sum)
