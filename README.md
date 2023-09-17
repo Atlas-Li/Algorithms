@@ -1,3 +1,3 @@
 # Algorithms
 
-[./twoSum] (two sum)
+* Two Sum [https://github.com/Atlas-Li/Algorithms/tree/main/twoSum]
