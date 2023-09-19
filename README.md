@@ -8,3 +8,4 @@ python and C++ implementations of some common Computer Science related algorithm
 4.   [longest Common Prefix](https://github.com/Atlas-Li/Algorithms/tree/main/longestCommonPrefix)
 5.   [Valid Parentheses](https://github.com/Atlas-Li/Algorithms/tree/main/ValidParentheses)
 6.   [Remove Duplicates from sorted array](https://github.com/Atlas-Li/Algorithms/tree/main/RemoveDuplicatesfromSortedArray)
+7.   [Remove Element](https://github.com/Atlas-Li/Algorithms/tree/main/RemoveElement)
