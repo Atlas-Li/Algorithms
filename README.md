@@ -9,3 +9,5 @@ python and C++ implementations of some common Computer Science related algorithm
 5.   [Valid Parentheses](https://github.com/Atlas-Li/Algorithms/tree/main/ValidParentheses)
 6.   [Remove Duplicates from sorted array](https://github.com/Atlas-Li/Algorithms/tree/main/RemoveDuplicatesfromSortedArray)
 7.   [Remove Element](https://github.com/Atlas-Li/Algorithms/tree/main/RemoveElement)
+8.   [Search Insert Position](https://github.com/Atlas-Li/Algorithms/tree/main/SearchInsertPosition)
+9.   [Length of Last Word](https://github.com/Atlas-Li/Algorithms/tree/main/Length%20of%20Last%20Word)
